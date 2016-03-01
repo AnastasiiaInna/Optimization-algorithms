@@ -1,4 +1,4 @@
-# Optimization-algoritms
+# Optimization-algorithms
  Metaheuristic algorithms for the Set Partitioninig Problem
 
 There is presented a genetic, tabu serach and scatter search algorithms for solving the set partitioning problem (SPP). 
